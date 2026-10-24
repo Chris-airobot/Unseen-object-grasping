@@ -1,4 +1,4 @@
-# Kinova Unseen Object Grasping Demo
+# Deakin University OpenDay Demo
 
 A ROS-based demo for grasping previously unseen objects with a Kinova robotic arm using single-camera perception, manual calibration, and motion execution.
 
